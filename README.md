@@ -1,4 +1,4 @@
-# A clone of the [pip Update Notifier](https://github.com/BenRogersWPG/pip-Update-Notifier)
+# A preview fork of the [pip Update Notifier](https://github.com/BenRogersWPG/pip-Update-Notifier)
 
 ## pip Update Notifier
 
