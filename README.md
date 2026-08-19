@@ -1,7 +1,5 @@
 # A preview fork of the [pip Update Notifier](https://github.com/BenRogersWPG/pip-Update-Notifier)
 
-## pip Update Notifier
-
 ## How To Use
 1. Fork [this](https://github.com/BenRogersWPG/pip-Update-Notifier) repository, and use that one instead.
 
