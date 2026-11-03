@@ -369,15 +369,15 @@ idna==3.20 \
     --hash=sha256:a7db850025b95ded1eae8a46181a1a6c56c92c96f0e2b005d9ff8dc0210cab44 \
     --hash=sha256:ab7ae7122974553370f0bdb919e1a960b2cd1bc1ef0276416d896db81c14582c
     # via requests
-patchright==1.63.0 \
-    --hash=sha256:1c08a30d0fbd4b76d27fc5b254687ec6311e3da65b6451f55eac1c8ebe81fc15 \
-    --hash=sha256:2f0b285cc3fc482b818560e30ee811486bb2eb7bcfb3522dbf75b703ef3cc24d \
-    --hash=sha256:74878ef6abaceabf630cf0e9fb40b6e3158fd1a02509b89bbe46e626a3c999b8 \
-    --hash=sha256:a1ddf092b330b9b47fb1a4db63563be4906c295cb386233aac71b92b7338c24a \
-    --hash=sha256:b1093a9788ea7e76cd9329619d04e10b7b97b89e4e6f6895489d6c7134f1ccc7 \
-    --hash=sha256:b3d2b1baae00b22f93837b0429cad7b250c51b3b46a4de0e5db0db0c4d48edc0 \
-    --hash=sha256:cbeb9c7f552d96ced0922ad2fc4bd5fca817a97fb2eeabc13d1bfadf95efac1a \
-    --hash=sha256:e28eca0e6424b2e84b2c8af6b06ee89d8764e5b675061a934d9a99fc3ae441ea
+patchright==1.64.4 \
+    --hash=sha256:03b61db0b05b539590db076af67ccde4199b10a8c765dcb03a7b5e653147354c \
+    --hash=sha256:0d677dae50f11adf07aa984aa4b40393e647edb91de9ddd2d9f1e32096cefebc \
+    --hash=sha256:55be6d79e9db4f4a886375d14961238ae182ec43d1ef56157a017722f30ea3f7 \
+    --hash=sha256:623eef3f7f889e67b39dc2fee33c83efa8891d3fec41e6a3df1ee59dabc8fe9f \
+    --hash=sha256:91ede516076a12196def89ff89ee7eb30deea4ba074ca136f1022d59e98b0352 \
+    --hash=sha256:93d719dd6a2921b553725611d56d53aee85f7c46d4d6eff220b71b8175ff9534 \
+    --hash=sha256:a580aee16e89ef2552c67e8f388bbaf1b7d31b4b51211a1d4b584302b9feb69f \
+    --hash=sha256:e8656d523df868304ca25b77c2a94f17fe9e582085d46a1e2c2d25469d66f7a9
     # via -r requirements-bfg.in
 pycparser==3.12 \
     --hash=sha256:a076f3f489b39b43ed13563a1dafe42447445bec2e294154ec5c57fcdda4c85e \
