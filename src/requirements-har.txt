@@ -184,9 +184,9 @@ requests==2.34.2 \
     --hash=sha256:2a0d60c172f83ac6ab31e4554906c0f3b3588d37b5cb939b1c061f4907e278e0 \
     --hash=sha256:f288924cae4e29463698d6d60bc6a4da69c89185ad1e0bcc4104f584e960b9ed
     # via -r requirements-har.in
-selenium==4.52.0 \
-    --hash=sha256:40f423c598cc85390c403ef626c9d3457c1ae834d4cf1f38637ebba3cb6f0d7a \
-    --hash=sha256:caa2860d486f71cdeb21fee3248c2f604bba590120dfb4d3d18c4d7cf97c6f1f
+selenium==4.54.0 \
+    --hash=sha256:8345ac0da0f62171f234baf4e2f7b85a92a5aafa47f9a5be281e3a94137dcd7a \
+    --hash=sha256:ed5ad5a8c77372ac824ed736ac627d02f41c5bf38be33467f15aaf5a4e038888
     # via -r requirements-har.in
 six==1.17.0 \
     --hash=sha256:4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274 \
